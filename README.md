@@ -1,5 +1,5 @@
 # unshr
-This program will remove administrative share from your computer.
+This script will remove administrative share from your computer.
 
 You can choose this program run on registry or as service.
 
