@@ -1,5 +1,5 @@
 # unshr
-This program to remove administrative share from your computer.
+This program will remove administrative share from your computer.
 You can choose this program run on registry or as service.
 
 This program consist of 4 files.
